@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Marco
 - 👀 I’m interested in leaning web development technologies
 - 🌱 I’m currently learning React JS, Node JS, and Express
-- 📫 How to reach me: email @ marco.elloyd.consolacion18@gmail.com
+- 📫 How to reach me? Email me @ marco.elloyd.consolacion18@gmail.com
 
 <!---
 marco-bot-18/marco-bot-18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
