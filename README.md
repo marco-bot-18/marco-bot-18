@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Marco
 - 👀 I’m interested in leaning web development technologies
-- 🌱 I’m currently learning React JS, Node JS, and Express
+- 🌱 I’m currently learning .NET framework such as ASP.NET Core MVC
 - 📫 How to reach me? Email me @ marco.elloyd.consolacion18@gmail.com
 
 <!---
