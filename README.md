@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Marco
 - 👀 I’m interested in leaning web development technologies and mobile app development
-- 🌱 I’m currently learning web development technologies such as ReactJS, NodeJS, ASP.NET Core MVC and Core Web API.
+- 🌱 I’m currently learning web development technologies such as ReactJS, NodeJS, AngularJS, ASP.NET Core MVC and Core Web API.
 - 📫 How to reach me? Email me @ marco.elloyd.consolacion18@gmail.com
 
 <!---
